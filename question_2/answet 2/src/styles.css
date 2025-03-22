@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.buttons {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.result {
+    margin-top: 20px;
+    text-align: left;
+    display: inline-block;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
